@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Ale-Shadow-02/Vue/issues"
   },
-  "homepage": "https://github.com/Ale-Shadow-02/Vue#readme"
+  "homepage": "https://github.com/Ale-Shadow-02/Vue#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
