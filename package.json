@@ -1,0 +1,19 @@
+{
+  "name": "vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ale-Shadow-02/Vue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ale-Shadow-02/Vue/issues"
+  },
+  "homepage": "https://github.com/Ale-Shadow-02/Vue#readme"
+}
